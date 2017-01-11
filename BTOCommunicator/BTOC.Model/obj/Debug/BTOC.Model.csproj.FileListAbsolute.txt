@@ -1,0 +1,9 @@
+D:\Project code\My work\ActivityTracker\BTOC.Model\bin\Debug\BTOC.Model.dll
+D:\Project code\My work\ActivityTracker\BTOC.Model\bin\Debug\BTOC.Model.pdb
+D:\Project code\My work\ActivityTracker\BTOC.Model\obj\Debug\BTOC.Model.csprojResolveAssemblyReference.cache
+D:\Project code\My work\ActivityTracker\BTOC.Model\obj\Debug\BTOC.Model.dll
+D:\Project code\My work\ActivityTracker\BTOC.Model\obj\Debug\BTOC.Model.pdb
+D:\Project code\My work\BTOCommunicator\BTOC.Model\bin\Debug\BTOC.Model.dll
+D:\Project code\My work\BTOCommunicator\BTOC.Model\bin\Debug\BTOC.Model.pdb
+D:\Project code\My work\BTOCommunicator\BTOC.Model\obj\Debug\BTOC.Model.dll
+D:\Project code\My work\BTOCommunicator\BTOC.Model\obj\Debug\BTOC.Model.pdb

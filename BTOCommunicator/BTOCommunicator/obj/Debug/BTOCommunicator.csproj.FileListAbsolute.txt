@@ -1,0 +1,63 @@
+D:\Project code\My work\ActivityTracker\ActivityTracker\bin\Debug\BTOCommunicator.exe.config
+D:\Project code\My work\ActivityTracker\ActivityTracker\bin\Debug\BTOCommunicator.exe
+D:\Project code\My work\ActivityTracker\ActivityTracker\bin\Debug\BTOCommunicator.pdb
+D:\Project code\My work\ActivityTracker\ActivityTracker\bin\Debug\Common.dll
+D:\Project code\My work\ActivityTracker\ActivityTracker\bin\Debug\MahApps.Metro.dll
+D:\Project code\My work\ActivityTracker\ActivityTracker\bin\Debug\System.Windows.Interactivity.dll
+D:\Project code\My work\ActivityTracker\ActivityTracker\bin\Debug\Common.pdb
+D:\Project code\My work\ActivityTracker\ActivityTracker\bin\Debug\MahApps.Metro.xml
+D:\Project code\My work\ActivityTracker\ActivityTracker\obj\Debug\BTOCommunicator.csproj.ResolveComReference.cache
+D:\Project code\My work\ActivityTracker\ActivityTracker\obj\Debug\BTOCommunicator.baml
+D:\Project code\My work\ActivityTracker\ActivityTracker\obj\Debug\Style\Skin.baml
+D:\Project code\My work\ActivityTracker\ActivityTracker\obj\Debug\App.baml
+D:\Project code\My work\ActivityTracker\ActivityTracker\obj\Debug\BTOCommunicator.g.cs
+D:\Project code\My work\ActivityTracker\ActivityTracker\obj\Debug\App.g.cs
+D:\Project code\My work\ActivityTracker\ActivityTracker\obj\Debug\BTOCommunicator_MarkupCompile.cache
+D:\Project code\My work\ActivityTracker\ActivityTracker\obj\Debug\BTOCommunicator.g.resources
+D:\Project code\My work\ActivityTracker\ActivityTracker\obj\Debug\BTOCommunicator.Properties.Resources.resources
+D:\Project code\My work\ActivityTracker\ActivityTracker\obj\Debug\BTOCommunicator.csproj.GenerateResource.Cache
+D:\Project code\My work\ActivityTracker\ActivityTracker\obj\Debug\BTOCommunicator.exe
+D:\Project code\My work\ActivityTracker\ActivityTracker\obj\Debug\BTOCommunicator.pdb
+D:\Project code\My work\ActivityTracker\ActivityTracker\obj\Debug\BTOCommunicator.csprojResolveAssemblyReference.cache
+D:\Project code\My work\BTOCommunicator\BTOCommunicator\bin\Debug\BTOCommunicator.exe.config
+D:\Project code\My work\BTOCommunicator\BTOCommunicator\obj\Debug\BTOCommunicator.csproj.ResolveComReference.cache
+D:\Project code\My work\BTOCommunicator\BTOCommunicator\obj\Debug\BTOCommunicator.exe
+D:\Project code\My work\BTOCommunicator\BTOCommunicator\obj\Debug\BTOCommunicator.pdb
+D:\Project code\My work\BTOCommunicator\BTOCommunicator\bin\Debug\BTOCommunicator.exe
+D:\Project code\My work\BTOCommunicator\BTOCommunicator\bin\Debug\BTOCommunicator.pdb
+D:\Project code\My work\BTOCommunicator\BTOCommunicator\bin\Debug\Common.dll
+D:\Project code\My work\BTOCommunicator\BTOCommunicator\bin\Debug\MahApps.Metro.dll
+D:\Project code\My work\BTOCommunicator\BTOCommunicator\bin\Debug\System.Windows.Interactivity.dll
+D:\Project code\My work\BTOCommunicator\BTOCommunicator\bin\Debug\Common.pdb
+D:\Project code\My work\BTOCommunicator\BTOCommunicator\bin\Debug\MahApps.Metro.xml
+D:\Project code\My work\BTOCommunicator\BTOCommunicator\obj\Debug\BTOCommunicator.csprojResolveAssemblyReference.cache
+D:\Project code\My work\BTOCommunicator\BTOCommunicator\obj\Debug\BTOCommunicator.baml
+D:\Project code\My work\BTOCommunicator\BTOCommunicator\obj\Debug\Style\Skin.baml
+D:\Project code\My work\BTOCommunicator\BTOCommunicator\obj\Debug\App.baml
+D:\Project code\My work\BTOCommunicator\BTOCommunicator\obj\Debug\BTOCommunicator.g.cs
+D:\Project code\My work\BTOCommunicator\BTOCommunicator\obj\Debug\App.g.cs
+D:\Project code\My work\BTOCommunicator\BTOCommunicator\obj\Debug\BTOCommunicator_MarkupCompile.cache
+D:\Project code\My work\BTOCommunicator\BTOCommunicator\obj\Debug\BTOCommunicator.g.resources
+D:\Project code\My work\BTOCommunicator\BTOCommunicator\obj\Debug\BTOCommunicator.Properties.Resources.resources
+D:\Project code\My work\BTOCommunicator\BTOCommunicator\obj\Debug\BTOCommunicator.csproj.GenerateResource.Cache
+E:\code\learn\property-rental-services\BTOCommunicator\BTOCommunicator\bin\Debug\BTOCommunicator.exe.config
+E:\code\learn\property-rental-services\BTOCommunicator\BTOCommunicator\obj\Debug\BTOCommunicator.csproj.ResolveComReference.cache
+E:\code\learn\property-rental-services\BTOCommunicator\BTOCommunicator\obj\Debug\BTOCommunicator.exe
+E:\code\learn\property-rental-services\BTOCommunicator\BTOCommunicator\obj\Debug\BTOCommunicator.pdb
+E:\code\learn\property-rental-services\BTOCommunicator\BTOCommunicator\bin\Debug\BTOCommunicator.exe
+E:\code\learn\property-rental-services\BTOCommunicator\BTOCommunicator\bin\Debug\BTOCommunicator.pdb
+E:\code\learn\property-rental-services\BTOCommunicator\BTOCommunicator\bin\Debug\Common.dll
+E:\code\learn\property-rental-services\BTOCommunicator\BTOCommunicator\bin\Debug\MahApps.Metro.dll
+E:\code\learn\property-rental-services\BTOCommunicator\BTOCommunicator\bin\Debug\System.Windows.Interactivity.dll
+E:\code\learn\property-rental-services\BTOCommunicator\BTOCommunicator\bin\Debug\Common.pdb
+E:\code\learn\property-rental-services\BTOCommunicator\BTOCommunicator\bin\Debug\MahApps.Metro.xml
+E:\code\learn\property-rental-services\BTOCommunicator\BTOCommunicator\obj\Debug\BTOCommunicator.csprojResolveAssemblyReference.cache
+E:\code\learn\property-rental-services\BTOCommunicator\BTOCommunicator\obj\Debug\BTOCommunicator.baml
+E:\code\learn\property-rental-services\BTOCommunicator\BTOCommunicator\obj\Debug\Style\Skin.baml
+E:\code\learn\property-rental-services\BTOCommunicator\BTOCommunicator\obj\Debug\App.baml
+E:\code\learn\property-rental-services\BTOCommunicator\BTOCommunicator\obj\Debug\BTOCommunicator.g.cs
+E:\code\learn\property-rental-services\BTOCommunicator\BTOCommunicator\obj\Debug\App.g.cs
+E:\code\learn\property-rental-services\BTOCommunicator\BTOCommunicator\obj\Debug\BTOCommunicator_MarkupCompile.cache
+E:\code\learn\property-rental-services\BTOCommunicator\BTOCommunicator\obj\Debug\BTOCommunicator.g.resources
+E:\code\learn\property-rental-services\BTOCommunicator\BTOCommunicator\obj\Debug\BTOCommunicator.Properties.Resources.resources
+E:\code\learn\property-rental-services\BTOCommunicator\BTOCommunicator\obj\Debug\BTOCommunicator.csproj.GenerateResource.Cache

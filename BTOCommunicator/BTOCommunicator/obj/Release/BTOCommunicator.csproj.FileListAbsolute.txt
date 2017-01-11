@@ -1,0 +1,11 @@
+D:\Project code\My work\ActivityTracker\ActivityTracker\obj\Release\BTOCommunicator.csprojResolveAssemblyReference.cache
+D:\Project code\My work\ActivityTracker\ActivityTracker\obj\Release\BTOCommunicator.csproj.ResolveComReference.cache
+D:\Project code\My work\ActivityTracker\ActivityTracker\obj\Release\BTOCommunicator.baml
+D:\Project code\My work\ActivityTracker\ActivityTracker\obj\Release\Style\Skin.baml
+D:\Project code\My work\ActivityTracker\ActivityTracker\obj\Release\App.baml
+D:\Project code\My work\ActivityTracker\ActivityTracker\obj\Release\BTOCommunicator.g.cs
+D:\Project code\My work\ActivityTracker\ActivityTracker\obj\Release\App.g.cs
+D:\Project code\My work\ActivityTracker\ActivityTracker\obj\Release\ActivityTracker_MarkupCompile.cache
+D:\Project code\My work\ActivityTracker\ActivityTracker\obj\Release\ActivityTracker.g.resources
+D:\Project code\My work\ActivityTracker\ActivityTracker\obj\Release\BTOCommunicator.Properties.Resources.resources
+D:\Project code\My work\ActivityTracker\ActivityTracker\obj\Release\BTOCommunicator.csproj.GenerateResource.Cache

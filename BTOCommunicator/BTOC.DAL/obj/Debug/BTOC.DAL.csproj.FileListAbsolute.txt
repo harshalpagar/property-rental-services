@@ -1,0 +1,8 @@
+D:\Project code\My work\ActivityTracker\BTOC.DAL\bin\Debug\BTOC.DAL.dll
+D:\Project code\My work\ActivityTracker\BTOC.DAL\bin\Debug\BTOC.DAL.pdb
+D:\Project code\My work\ActivityTracker\BTOC.DAL\obj\Debug\BTOC.DAL.dll
+D:\Project code\My work\ActivityTracker\BTOC.DAL\obj\Debug\BTOC.DAL.pdb
+D:\Project code\My work\BTOCommunicator\BTOC.DAL\bin\Debug\BTOC.DAL.dll
+D:\Project code\My work\BTOCommunicator\BTOC.DAL\bin\Debug\BTOC.DAL.pdb
+D:\Project code\My work\BTOCommunicator\BTOC.DAL\obj\Debug\BTOC.DAL.dll
+D:\Project code\My work\BTOCommunicator\BTOC.DAL\obj\Debug\BTOC.DAL.pdb

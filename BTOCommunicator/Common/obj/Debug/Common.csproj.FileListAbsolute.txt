@@ -1,0 +1,10 @@
+D:\Pankaj\1. Practice\.Net Application\ActivityTracker\Common\bin\Debug\Common.dll
+D:\Pankaj\1. Practice\.Net Application\ActivityTracker\Common\bin\Debug\Common.pdb
+D:\Pankaj\1. Practice\.Net Application\ActivityTracker\Common\obj\Debug\Common.dll
+D:\Pankaj\1. Practice\.Net Application\ActivityTracker\Common\obj\Debug\Common.pdb
+D:\Pankaj\1. Practice\.Net Application\ActivityTracker\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\Project code\My work\ActivityTracker\Common\bin\Debug\Common.dll
+D:\Project code\My work\ActivityTracker\Common\bin\Debug\Common.pdb
+D:\Project code\My work\ActivityTracker\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\Project code\My work\ActivityTracker\Common\obj\Debug\Common.dll
+D:\Project code\My work\ActivityTracker\Common\obj\Debug\Common.pdb

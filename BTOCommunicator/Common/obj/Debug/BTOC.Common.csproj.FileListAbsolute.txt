@@ -1,0 +1,13 @@
+D:\Project code\My work\ActivityTracker\Common\bin\Debug\Common.dll
+D:\Project code\My work\ActivityTracker\Common\bin\Debug\Common.pdb
+D:\Project code\My work\ActivityTracker\Common\obj\Debug\Common.dll
+D:\Project code\My work\ActivityTracker\Common\obj\Debug\Common.pdb
+D:\Project code\My work\BTOCommunicator\Common\bin\Debug\Common.dll
+D:\Project code\My work\BTOCommunicator\Common\bin\Debug\Common.pdb
+D:\Project code\My work\BTOCommunicator\Common\obj\Debug\Common.dll
+D:\Project code\My work\BTOCommunicator\Common\obj\Debug\Common.pdb
+E:\code\learn\property-rental-services\BTOCommunicator\Common\bin\Debug\Common.dll
+E:\code\learn\property-rental-services\BTOCommunicator\Common\bin\Debug\Common.pdb
+E:\code\learn\property-rental-services\BTOCommunicator\Common\obj\Debug\BTOC.Common.csprojResolveAssemblyReference.cache
+E:\code\learn\property-rental-services\BTOCommunicator\Common\obj\Debug\Common.dll
+E:\code\learn\property-rental-services\BTOCommunicator\Common\obj\Debug\Common.pdb
