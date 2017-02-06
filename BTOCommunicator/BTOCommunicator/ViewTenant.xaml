@@ -1,0 +1,41 @@
+﻿<Window x:Class="BTOCommunicator.ViewTenant"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="ViewTenant" Height="343.781" Width="676.078">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="38*"/>
+            <RowDefinition Height="25*"/>
+            <RowDefinition Height="23*"/>
+            <RowDefinition Height="20*"/>
+            <RowDefinition Height="27*"/>
+            <RowDefinition Height="25*"/>
+            <RowDefinition Height="24*"/>
+            <RowDefinition Height="36*"/>
+            <RowDefinition Height="73*"/>
+            <RowDefinition Height="22*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="11*"/>
+            <ColumnDefinition Width="34*"/>
+        </Grid.ColumnDefinitions>
+        <Label Content="name" Grid.Row="1"/>
+        <Label Content="email" Grid.Row="3"/>
+        <Label Content="address" Grid.Row="2"/>
+        <Label Content="phone" Grid.Row="4"/>
+        <Label Content="alternatePhone" Grid.Row="5"/>
+        <Label Content="ownerId" Grid.Row="6"/>
+        <Label Content="tenantId" Grid.RowSpan="2"/>
+        <Label Content="propertyId" Grid.Row="7"/>
+        <Button Content="Button" Grid.Column="1" Grid.Row="8" Margin="235,0,0,0"/>
+        <Button Content="Button" Grid.Column="1" Grid.Row="8" Margin="0,0,288,0"/>
+        <TextBlock x:Name="txtTenantId" Grid.Column="1" TextWrapping="Wrap" Text="txtTenantId" Grid.RowSpan="2"/>
+        <TextBlock x:Name="txtTenantName" Grid.Column="1" TextWrapping="Wrap" Text="txtTenantName" Grid.Row="1" Grid.RowSpan="2"/>
+        <TextBlock x:Name="txtTenant" Grid.Column="1" TextWrapping="Wrap" Text="txtTenantId" Grid.Row="2" Grid.RowSpan="2"/>
+        <TextBlock x:Name="txtTenantId_Copy2" Grid.Column="1" TextWrapping="Wrap" Text="txtTenantId" Grid.Row="3" Grid.RowSpan="2"/>
+        <TextBlock x:Name="txtTenantId_Copy3" Grid.Column="1" TextWrapping="Wrap" Text="txtTenantId" Grid.Row="4"/>
+        <TextBlock x:Name="txtTenantId_Copy4" Grid.Column="1" TextWrapping="Wrap" Text="txtTenantId" Grid.Row="5" Grid.RowSpan="2"/>
+        <TextBlock x:Name="txtTenantId_Copy5" Grid.Column="1" TextWrapping="Wrap" Text="txtTenantId" Grid.Row="6" Grid.RowSpan="2"/>
+        <TextBlock x:Name="txtTenantId_Copy6" Grid.Column="1" TextWrapping="Wrap" Text="txtTenantId" Grid.Row="7"/>
+    </Grid>
+</Window>
